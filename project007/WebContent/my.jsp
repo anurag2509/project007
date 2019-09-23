@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>hi to all</h1>
+<h1>hi t o all</h1>
 <h1>hi to all</h1>
 </body>
 </html>
